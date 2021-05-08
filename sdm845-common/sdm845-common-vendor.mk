@@ -743,10 +743,5 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     HotwordEnrollmentOKGoogleWCD9340 \
     HotwordEnrollmentXGoogleWCD9340 \
-    QtiTelephonyService \
-    uceShimService \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
     WfdService \
     WfdCommon
